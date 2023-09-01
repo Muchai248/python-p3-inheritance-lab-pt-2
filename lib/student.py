@@ -18,3 +18,9 @@ class ChattyStudent(Student):
 chat=ChattyStudent()
 print(chat.hello())
 print(chat.raise_hand())
+
+
+
+
+
+
